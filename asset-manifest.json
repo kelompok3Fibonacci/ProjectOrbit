@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ProjectOrbit/static/css/main.ce727c23.css",
+    "main.js": "/ProjectOrbit/static/js/main.f15c10e4.js",
+    "static/media/adi.png": "/ProjectOrbit/static/media/adi.c2105920a58ed89b3b0d.png",
+    "static/media/irfan.png": "/ProjectOrbit/static/media/irfan.785cf949408742e1330a.png",
+    "static/media/alfaraja.png": "/ProjectOrbit/static/media/alfaraja.1debb64769c1388e4636.png",
+    "static/media/nabila.png": "/ProjectOrbit/static/media/nabila.a8b48bd75f2c8ee65626.png",
+    "static/media/ryan.png": "/ProjectOrbit/static/media/ryan.08546294856fbd461652.png",
+    "static/media/tutup1.avif": "/ProjectOrbit/static/media/tutup1.95a9820bc8143f167dd8.avif",
+    "static/media/vira.png": "/ProjectOrbit/static/media/vira.a3f1a9302e62384c5194.png",
+    "static/media/aqua.webp": "/ProjectOrbit/static/media/aqua.80cc6e7632baaa6b49f0.webp",
+    "static/media/aqua2.webp": "/ProjectOrbit/static/media/aqua2.016d3a4156b48470cdd9.webp",
+    "static/media/tutup2.jpeg": "/ProjectOrbit/static/media/tutup2.d93010dee92354c7db3e.jpeg",
+    "static/media/tutup.webp": "/ProjectOrbit/static/media/tutup.2a20589a894761fe54d3.webp",
+    "static/media/twitter.png": "/ProjectOrbit/static/media/twitter.ed0b1f9aa9e79b668ed2.png",
+    "static/media/decor.png": "/ProjectOrbit/static/media/decor.d239b147ffe7be3ee920.png",
+    "static/media/instagram.png": "/ProjectOrbit/static/media/instagram.1d156a89b464dda934dd.png",
+    "index.html": "/ProjectOrbit/index.html",
+    "main.ce727c23.css.map": "/ProjectOrbit/static/css/main.ce727c23.css.map",
+    "main.f15c10e4.js.map": "/ProjectOrbit/static/js/main.f15c10e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce727c23.css",
+    "static/js/main.f15c10e4.js"
+  ]
+}
